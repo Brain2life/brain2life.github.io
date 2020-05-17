@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece0b322-34ed-4aec-b37d-12558c9b55e1" name="Default Changelist" comment="feat: add footer brain2life.github.io">
+    <list default="true" id="ece0b322-34ed-4aec-b37d-12558c9b55e1" name="Default Changelist" comment="feat: add short title website description">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589739573076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: add short title website description">
+      <created>1589739631294</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589739631294</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +115,8 @@
     <MESSAGE value="refactor: add title, timezone, service files, author" />
     <MESSAGE value="feat: add new avatar" />
     <MESSAGE value="feat: add footer brain2life.github.io" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add footer brain2life.github.io" />
+    <MESSAGE value="feat: add short title website description" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add short title website description" />
   </component>
   <component name="WindowStateProjectService">
     <state x="471" y="274" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589739529020">
