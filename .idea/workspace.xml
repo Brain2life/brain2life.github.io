@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ece0b322-34ed-4aec-b37d-12558c9b55e1" name="Default Changelist" comment="feat: add new avatar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ece0b322-34ed-4aec-b37d-12558c9b55e1" name="Default Changelist" comment="feat: add footer brain2life.github.io">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589628221523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: add footer brain2life.github.io">
+      <created>1589739573076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589739573076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,13 +106,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="refactor: add title, timezone, service files, author" />
     <MESSAGE value="feat: add new avatar" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add new avatar" />
+    <MESSAGE value="feat: add footer brain2life.github.io" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add footer brain2life.github.io" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="274" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589628227381">
+    <state x="471" y="274" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1589739529020">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
-    <state x="471" y="274" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1608.1023@72.27.1608.1023" timestamp="1589628227381" />
+    <state x="471" y="274" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1608.1023@72.27.1608.1023" timestamp="1589739529020" />
     <state x="539" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1589739181704">
       <screen x="72" y="27" width="1608" height="1023" />
     </state>
